@@ -10,7 +10,7 @@ BitBairro é um *protocolo distribuído de troca*, implementável por comunidade
 1. Forke este repositório.
 1. Crie um grupo de whatsapp com o nome "Bit" + nome do bairro/prédio/condomínio/empresa/etc. Ex.: BitBarão. Use este nome para o repositório forkado (ex.: `bitbarao`).
 1. Pense em pessoas que você conhece e que moram em um raio de 2km de você (de preferência que tenha carro).
-1. Encontre cada uma, instale o app Copay no celular dela e transfira 10 reais ou mais de cortesia mostrando todos os passos para a pessoa para que ela entenda como funciona.
+1. Encontre cada uma, instale o app [Copay](https://copay.io/) no celular dela e transfira 10 reais ou mais de cortesia mostrando todos os passos para a pessoa para que ela entenda como funciona.
 1. Ensine a pessoa a conseguir mais bitcoins em serviços online.
 1. Leia este documento com a pessoa.
 1. Adiciona a pessoa ao grupo de whatsapp.
