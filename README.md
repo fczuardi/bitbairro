@@ -19,7 +19,7 @@ BitBairro é um *protocolo distribuído de troca*, implementável por comunidade
 
 Protocolos devem surgir, e vou atualizando este documento conforme sugestões forem adotadas. Por enquanto, temos estes serviços/produtos consensuais (todos em bitcoin):
 
-* Carona /2: calculado com algum app de tarifa e pago metade do preço ("sobre dois").
+* Carona /2: calculado com algum app de tarifa de táxi e pago metade do preço ("sobre dois").
 * Supermercado 120: pessoa avisa no grupo que está indo ao mercado, quem tiver interesse passa em pvt uma lista de compras, recebe em casa, confere o cupom fiscal e paga 120% do valor.
 
 No grupo, a pessoa diz "compro carona" ou "vendo supermercado", e a negociação segue em particular.
