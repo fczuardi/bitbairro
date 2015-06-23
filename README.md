@@ -21,6 +21,7 @@ Protocolos devem surgir, e vou atualizando este documento conforme sugestões fo
 
 * Carona /2: calculado com algum app de tarifa de táxi e pago metade do preço ("sobre dois").
 * Supermercado 120: pessoa avisa no grupo que está indo ao mercado, quem tiver interesse passa em pvt uma lista de compras, recebe em casa, confere o cupom fiscal e paga 120% do valor.
+* Restaurantes (pindura pré-paga): uma pessoa do grupo deixa pré-pago um número de refeições ou um saldo em algum estabelecimento do bairro; cria uma [página hosted de merchant no coinbase](https://developers.coinbase.com/docs/merchants/payment-pages) ou serviço similar e pede para o dono do estabelecimento fazer um bookmark desta página no computador do caixa; deixa combinado que qualquer pessoa tem permissão de descontar do seu saldo desde que pague a você com o celular pelo site e que a tela do computador mostre que a transação foi efetuada. Exemplo: [página do caixa para a conta de Fabricio](https://www.coinbase.com/checkouts/65dd3a9c2a7e1cf4b7d8a5e24c762a5d?locale=pt) no [Braseiro Santo Antonio](https://www.facebook.com/braseirosantoantonio) em São Carlos.
 
 No grupo, a pessoa diz "compro carona" ou "vendo supermercado", e a negociação segue em particular.
 
